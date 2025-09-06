@@ -88,12 +88,6 @@ streamlit run quiz_app.py
 
 ------------------------------------------------------------------------
 
-## 📸 Screenshots
-
-*(Add your own screenshots here!)*
-
-------------------------------------------------------------------------
-
 ## ⚙️ Requirements
 
 See [`requirements.txt`](requirements.txt):
